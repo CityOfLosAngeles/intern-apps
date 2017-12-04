@@ -9,7 +9,7 @@ Please follow these steps:
 
 1. Fork this repository. You can learn how to do that [here](https://help.github.com/articles/fork-a-repo/)
 2. Download the a dataset from the City of LA [Data Portal](http://data.lacity.org) or [Geohub](http://geohub.lacity.org). Recommend datasets include Crime, Building Permits and City Budget 
-3. Create a Jupyter notebook (using a Python or R kernel) in your fork of this repository and that includes the following three (or four) sections:
+3. Create a Jupyter notebook (using a Python or R kernel) or RMarkdown Document in your fork of this repository and that includes the following three (or four) sections:
   1. **Exploratory analysis**. Describe the dataset using counts, averages, frequency tabeles, and plots. Do you see anything interesting or potentially problematic?
   2. **A Data Story**. Find a specific interesting case in the data and tell us what happens with it. Provide evidence from the data that supports your narrative.
   3. **Questions for the Project Partner**. What questions would you ask the partner now that you have seen the data? What is missing that you might need to get from them or other data sources to do something useful with the data?
