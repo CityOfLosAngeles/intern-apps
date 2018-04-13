@@ -3,7 +3,7 @@ This repository includes an exercise for aspiring DSF volunteers and research as
 
 Please do not spend more than 2-4 hours on it. Once you're done, please email [ITADATA@lacity.org](mailto://ITAData@lacity.org) with a link to your repository on Github. 
 
-**For Data Roles** (data modelers, database people, data analysts, machine learning, etc): 
+**For Data Roles** (data modelers, database people, data analysts, data visualization, machine learning, etc): 
 
 Please follow these steps:
 
@@ -12,7 +12,7 @@ Please follow these steps:
 3. Create a Jupyter notebook (using a Python or R kernel) or RMarkdown Document in your fork of this repository and that includes the following three (or four) sections:
   1. **Exploratory analysis**. Describe the dataset using counts, averages, frequency tabeles, and plots. Do you see anything interesting or potentially problematic?
   2. **A Data Story**. Find a specific interesting case in the data and tell us what happens with it. Provide evidence from the data that supports your narrative.
-  3. **Questions for the Project Partner**. What questions would you ask the partner now that you have seen the data? What is missing that you might need to get from them or other data sources to do something useful with the data?
+  3. **Questions for the Dataset Owens**. What questions would you ask the data owener now that you have seen the data? What is missing that you might need to get from them or other data sources to do something useful with the data?
   4. **Modeling** (For those applying for machine learning positions). Build (and validate) a model with the data that predicts a quantity of interest, identifies underlying structure in the data, or explores a potentially important relationship among fields in the dataset. What did you learn from it? Why is it potentially useful or relevant to someone's decision making?
 
 **For Software Engineering (Back-End or Front-End) Roles**: 
